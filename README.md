@@ -1,3 +1,3 @@
-# ZST     |
-xw0lle|CTF|
+# ZST
+xw0lle|CTF
 __________|
